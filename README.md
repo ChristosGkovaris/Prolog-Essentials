@@ -1,6 +1,6 @@
 # Prolog Utility Functions
 
-Welcome to the "Prolog Utility Functions" repository, a collection of useful functions implemented in Prolog. These functions cover various tasks such as mathematical computations, list manipulations, and data processing.
+Welcome to the "Prolog Utility Functions", a collection of useful functions implemented in Prolog. These functions cover various tasks such as mathematical computations, list manipulations, and data processing.
 
 ## Functions Overview
 
